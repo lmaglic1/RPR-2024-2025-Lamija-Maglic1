@@ -1,0 +1,2 @@
+Matematika 1, Profesor, Asistent, 7.0
+Matematika 2, Profesor1, Asistent1, 6.0
